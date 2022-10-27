@@ -103,7 +103,7 @@ land, only the small or the swift or the fierce could flourish,
 or even hope to survive.
 ↪
 ↪
-↪
+↪/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-24-02.png
 ↪
 ↪
 ↪
@@ -130,17 +130,17 @@ or even hope to survive.
 # Выполнение лаборатнорной работы
 
 1. Открываю терминал, перехожу в каталог курса, сформированный при выполнении лабораторной работы №3 и обновляю локальный репозиторий, скачав изменения из удаленного репозитория с помощью команды git pull
-file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-21-13.png
+/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-21-13.png
 2. Перехожу в каталог с шаблоном отчета по лабораторной работе № 4,провожу компиляцию шаблона с использованием Makefile. Для этого ввожу команду make и генерирую файлы report.pdf и
 report.docx. Открываю и проверяю корректность полученных файлов.
-file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-20-45.png
-file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-20-22.png
+/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-20-45.png
+/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-20-22.png
 3. Удаляю полученный файлы с использованием Makefile.Для этого ввожу команду make clean
 Проверяю, что после этой команды файлы report.pdf и report.docx были удалены.
 file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-23-37.png
-file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-24-02.png
+/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-24-02.png
 4. Открываю файл report.md c помощью любого текстового редактора gedit. Внимательно изучаю структуру этого файла.
-file:///afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0/arch-pc/labs/lab04/report/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-10-20%2011-25-14.png
+/afs/.dk.sci.pfu.edu.ru/home/l/a/lavorobchuk/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-25-19.png
 5. Заполняю отчет и компилирую отчет с использованием Makefile. Проверяю корректность полученных файлов.
 6. Загружаю файлы на Github.
 # Вывод 
